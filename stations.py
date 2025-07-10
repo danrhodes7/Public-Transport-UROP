@@ -1,6 +1,3 @@
-#Barking Riverside
-
-
 line_colors = {
     "Victoria": "#0098D4",
     "Central": "#E32017",
